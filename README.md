@@ -26,6 +26,6 @@ I'm a **Software Engineer** passionate about creating innovative and scalable te
 ---
 
 ### 📫 Contact Me
-- 📧 [Email](mailto:tu-email@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 📧 [Email](mailto:elielhelmer@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/helmer-meneses/)
 
